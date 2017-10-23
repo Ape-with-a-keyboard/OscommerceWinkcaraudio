@@ -1,0 +1,55 @@
+a:12:{s:8:"encoding";s:5:"UTF-8";s:5:"title";s:15:"osCommerce Apps";s:4:"link";s:26:"https://www.oscommerce.com";s:11:"description";s:35:"osCommerce Apps Marketplace listing";s:8:"language";s:2:"en";s:9:"copyright";s:29:"Copyright (c) 2017 osCommerce";s:14:"managingEditor";s:19:"hpdl@oscommerce.com";s:11:"image_title";s:10:"osCommerce";s:9:"image_url";s:69:"https://www.oscommerce.com/public/sites/Website/images/oscommerce.png";s:10:"image_link";s:26:"https://www.oscommerce.com";s:5:"items";a:5:{i:0;a:4:{s:5:"title";s:23:"Quickpay Payment Module";s:4:"link";s:33:"https://apps.oscommerce.com/PFXjo";s:11:"description";s:636:"First upload is compatible with Quickpay API v10 and osC 2.3.4 variants.<br />
+<br />
+The initial release has language files and installation instructions in both English and Danish.<br />
+<br />
+It can be installed without code changes on:<br />
+<br />
+ 2.3.4BS Edge version of Community Responsive osC Project (which is Paypal App-ready)<br />
+ 2.3.4 osCommerce with Paypal App already installed<br />
+ 2.3.4BS Gold version of Community Responsive osC Project with Paypal App already installed<br />
+<br />
+In stores without the Paypal App, simple modifications to three files in admin are required (to enable the admin orders hooks).";s:7:"pubDate";s:31:"Fri, 20 Oct 2017 22:35:14 +0200";}i:1;a:4:{s:5:"title";s:30:"PayPal Promotions and Insights";s:4:"link";s:33:"https://apps.oscommerce.com/JfKSw";s:11:"description";s:169:"- General improvements.<br />
+<br />
+Thanks to everyone for all your great feedback.<br />
+Please enjoy improvements to module optimization and stability in this update.";s:7:"pubDate";s:31:"Wed, 18 Oct 2017 10:30:08 +0200";}i:2;a:4:{s:5:"title";s:23:"Database Optimizer V1.7";s:4:"link";s:33:"https://apps.oscommerce.com/DzhAJ";s:11:"description";s:503:"- Added option Remove Orphan Orders.<br />
+- Added the latest Version Checker files. <br />
+- Corrected spelling mistake in the modules file - found by member Cary.<br />
+- Corrected mistake in the remove old customers section that would prevent some customers from being deleted.<br />
+- Fixed problems in Truncate Customers Orders.<br />
+- Fixed a mistake in the common file when deleting sessions. (found by member John W).<br />
+- Fixed several minor html coding mistakes. (found by member Demitry).";s:7:"pubDate";s:31:"Sun, 15 Oct 2017 17:40:07 +0200";}i:3;a:4:{s:5:"title";s:22:"UniPAY payment gateway";s:4:"link";s:33:"https://apps.oscommerce.com/XFJ3U";s:11:"description";s:1582:"Accept online payments and expand your sales imediatly by UniPAY Checkout. Your customers are redirected to the UniPAY Checkout payment page to finalize their purchases.<br />
+<br />
+y accepting the majority of local payment methods in most payment currencies at your store, you will gain easy access to new segments of consumers and increase your income<br />
+Adapt the solution to your needs and customize your payment page with your store's scheme and logo Benefit from UniPAY to gain maximum control, flexibility and adaptability to different local payment preferences. Optimize your conversion rate and reduce your costs thanks to this ready-to-use solution<br />
+<br />
+- Local payment methods including:<br />
+Visa<br />
+MasterCard<br />
+American Express<br />
+Bank Payouts<br />
+Cruptocurrency - Bitcoin<br />
+TBC Bank, Bank of Georgia, Liberty Bank, Cartu <br />
+<br />
+You can attache all local Bank aquiring solutions<br />
+TBC BANK<br />
+BANK OF GEORGIA<br />
+CARTU BANK<br />
+Bank Liberty <br />
+<br />
+- Payment page available in English and Georgian<br />
+<br />
+- Online administrative interface with detailed reporting tools<br />
+<br />
+- Test and production environments<br />
+<br />
+before to install the module, make sure that you are registered into UniPAY page as a business merchant<br />
+<br />
+for Registration please use this link<br />
+<br />
+https://www.unipay.com/register?layout=register<br />
+<br />
+After successfull business registration you will be granted by UniPAY dev team with<br />
+Secret Key and Merchant ID to activate your module settings.";s:7:"pubDate";s:31:"Thu, 12 Oct 2017 18:00:20 +0200";}i:4;a:4:{s:5:"title";s:21:"Points and Rewards BS";s:4:"link";s:33:"https://apps.oscommerce.com/G5ep5";s:11:"description";s:549:"This is a Points and Rewards system, aimed to generate additional sales or at least motivate customers to spend more money at your store. <br />
+The Points and Rewards system awards shopping points to customers for the amount they spend or for writing reviews or for referring new customers.<br />
+Points are considered as cash when redeemed. Points are by default set to pending status until manually approved by the store owner or admin.<br />
+Once approved, customers can then use those points to pay for their orders during the checkout process.";s:7:"pubDate";s:31:"Tue, 10 Oct 2017 16:10:56 +0200";}}s:11:"items_count";i:5;}
